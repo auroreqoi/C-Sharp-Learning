@@ -1,0 +1,15 @@
+/home/aurore/code/auroreqoi/C#/bin/Debug/net6.0/NumbersInCSharp
+/home/aurore/code/auroreqoi/C#/bin/Debug/net6.0/NumbersInCSharp.deps.json
+/home/aurore/code/auroreqoi/C#/bin/Debug/net6.0/NumbersInCSharp.runtimeconfig.json
+/home/aurore/code/auroreqoi/C#/bin/Debug/net6.0/NumbersInCSharp.dll
+/home/aurore/code/auroreqoi/C#/bin/Debug/net6.0/NumbersInCSharp.pdb
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.csproj.AssemblyReference.cache
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.AssemblyInfo.cs
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.dll
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/refint/NumbersInCSharp.dll
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.pdb
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/NumbersInCSharp.genruntimeconfig.cache
+/home/aurore/code/auroreqoi/C#/obj/Debug/net6.0/ref/NumbersInCSharp.dll
